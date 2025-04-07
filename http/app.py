@@ -92,7 +92,7 @@ body: Don't forget the party!
 <head></head>
 <body>
   <h1>Note</h1>
-  <p>to: Peter</p>
+  <p>to: Ravil</p>
   <p>from: Jane</p>
   <p>heading: Reminder</p>
   <p>body: <strong>Don't forget the party!</strong></p>
